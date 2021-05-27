@@ -9,3 +9,21 @@ for (let index = 0; index < n; index++) {
     ar.push(rng(x, y));
 }
 console.log(ar);
+
+
+// this
+// lines 
+// only
+// exist
+// in 
+// order
+// to
+// make
+// github
+// consider
+// this
+// a
+// JavaScript
+// -
+// predominant
+// code.
